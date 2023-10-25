@@ -1,4 +1,3 @@
 site_name: My Docs
 theme:
   name: material
-docs_dir: docs  # Replace with the actual path to your "docs" directory
